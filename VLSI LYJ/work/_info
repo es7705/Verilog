@@ -1,0 +1,895 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/AAA
+vAdd_8bits
+Z0 !s110 1671505720
+!i10b 1
+!s100 oW??1nkZS_<Hikjh8[6f32
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3VDS8H_BeQLOl2eA<Ye1@3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/VLSI LYJ
+Z4 w1671479505
+Z5 8C:/VLSI LYJ/Adder_4b.v
+Z6 FC:/VLSI LYJ/Adder_4b.v
+!i122 1880
+L0 3 8
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1671505720.000000
+Z9 !s107 C:/VLSI LYJ/Adder_4b.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Adder_4b.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@add_8bits
+vAdder_16bits
+Z13 !s110 1671505713
+!i10b 1
+!s100 ^8>Xn2k>J?zMGE[SNMAN^3
+R1
+IE_nne@hXGW[@aXE49gPal3
+R2
+R3
+Z14 w1666378204
+Z15 8C:/VLSI LYJ/Adder.v
+Z16 FC:/VLSI LYJ/Adder.v
+!i122 1871
+Z17 L0 3 10
+R7
+r1
+!s85 0
+31
+Z18 !s108 1671505713.000000
+Z19 !s107 C:/VLSI LYJ/Adder.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Adder.v|
+!i113 1
+R11
+R12
+n@adder_16bits
+vAdder_16bits_Tb
+R13
+!i10b 1
+!s100 kJXZoWnh0^bnKl2IPCoGc3
+R1
+I;0>CLBblG=NezDZe_ah:62
+R2
+R3
+R14
+R15
+R16
+!i122 1871
+L0 14 24
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R11
+R12
+n@adder_16bits_@tb
+vAdder_8bits
+Z21 !s110 1671505714
+!i10b 1
+!s100 zj9z:Oh6bgINAo_3CVWB;0
+R1
+IKjoSzm0;I6Tn2jOa`cYdm2
+R2
+R3
+Z22 w1665466600
+Z23 8C:/VLSI LYJ/Adder_8bits.v
+Z24 FC:/VLSI LYJ/Adder_8bits.v
+!i122 1872
+Z25 L0 3 17
+R7
+r1
+!s85 0
+31
+R18
+Z26 !s107 C:/VLSI LYJ/Adder_8bits.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Adder_8bits.v|
+!i113 1
+R11
+R12
+n@adder_8bits
+vAdder_8bits_Tb
+R21
+!i10b 1
+!s100 @ecZW9m0I5eI2[0ZGjNTa0
+R1
+IJ:WiDl[em<A`1gD<e>G?b3
+R2
+R3
+R22
+R23
+R24
+!i122 1872
+L0 21 24
+R7
+r1
+!s85 0
+31
+R18
+R26
+R27
+!i113 1
+R11
+R12
+n@adder_8bits_@tb
+vAlu_8bits
+R0
+!i10b 1
+!s100 b9@WId_]G`dW36I4BV1Wg2
+R1
+I7E:@W]4KJOCDd9L8eAaY<3
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 60 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@alu_8bits
+vAlu_8bits_Tb
+R0
+!i10b 1
+!s100 lhXVjkY`TU@`3F=Yc9aQV1
+R1
+IDS[6=5eGLW_96cZYDm2l91
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 82 24
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@alu_8bits_@tb
+vccase
+!s110 1667284068
+!i10b 1
+!s100 nBmdEHbNP<>jTPT8giegP2
+R1
+I6c]G[PO6QEn_BMbb6dd1Q1
+R2
+R3
+w1667283503
+Z28 8C:/VLSI LYJ/Mux_2to1_8bits_case.v
+Z29 FC:/VLSI LYJ/Mux_2to1_8bits_case.v
+!i122 418
+Z30 L0 3 15
+R7
+r1
+!s85 0
+31
+!s108 1667284068.000000
+Z31 !s107 C:/VLSI LYJ/Mux_2to1_8bits_case.v|
+Z32 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Mux_2to1_8bits_case.v|
+!i113 1
+R11
+R12
+vComparator_8bits
+R21
+!i10b 1
+!s100 4jaIaJfZNXI3C343e5K;T1
+R1
+I2zaH[Cd[@9JF_jkVPUa5A3
+R2
+R3
+Z33 w1666429866
+Z34 8C:/VLSI LYJ/8bits_Comparator.v
+Z35 FC:/VLSI LYJ/8bits_Comparator.v
+!i122 1873
+L0 3 16
+R7
+r1
+!s85 0
+31
+Z36 !s108 1671505714.000000
+Z37 !s107 C:/VLSI LYJ/8bits_Comparator.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/8bits_Comparator.v|
+!i113 1
+R11
+R12
+n@comparator_8bits
+vComparator_8bits_Tb
+R21
+!i10b 1
+!s100 7EenoMIO:Czh_W8`_XblL0
+R1
+Ie?4i@;j_9ZX<<GH8`JIHe3
+R2
+R3
+R33
+R34
+R35
+!i122 1873
+L0 20 18
+R7
+r1
+!s85 0
+31
+R36
+R37
+R38
+!i113 1
+R11
+R12
+n@comparator_8bits_@tb
+vD_FF
+Z39 !s110 1671505721
+!i10b 1
+!s100 :;OniCcEPH^Xg3YS8BWSi1
+R1
+IL=VzZE4<9L[kA`fXj?K>=1
+R2
+R3
+Z40 w1670147240
+Z41 8C:/VLSI LYJ/Flip-Flop.v
+Z42 FC:/VLSI LYJ/Flip-Flop.v
+!i122 1882
+Z43 L0 3 12
+R7
+r1
+!s85 0
+31
+Z44 !s108 1671505721.000000
+Z45 !s107 C:/VLSI LYJ/Flip-Flop.v|
+Z46 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Flip-Flop.v|
+!i113 1
+R11
+R12
+n@d_@f@f
+vD_FF_Tb
+R39
+!i10b 1
+!s100 YOe;Mm]EKmmI?MUOUALP41
+R1
+IngYl9ZZmNAVzC<T=n28Cm0
+R2
+R3
+R40
+R41
+R42
+!i122 1882
+L0 16 48
+R7
+r1
+!s85 0
+31
+R44
+R45
+R46
+!i113 1
+R11
+R12
+n@d_@f@f_@tb
+vdecoder_3_to_8
+Z47 !s110 1671505722
+!i10b 1
+!s100 fm^lYU>3B[f5lH[d3NFf[3
+R1
+If8eHRo62QF9nC2J`D`alL2
+R2
+R3
+Z48 w1671207783
+Z49 8C:/VLSI LYJ/decoder_3to8.v
+Z50 FC:/VLSI LYJ/decoder_3to8.v
+!i122 1884
+Z51 L0 3 22
+R7
+r1
+!s85 0
+31
+Z52 !s108 1671505722.000000
+Z53 !s107 C:/VLSI LYJ/decoder_3to8.v|
+Z54 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/decoder_3to8.v|
+!i113 1
+R11
+R12
+vdecoder_3_to_8_Tb
+R47
+!i10b 1
+!s100 PaBV?Xc?LbI1oB;QZ3[P=2
+R1
+Ijn0DhYf_PRMliMoazQH<m0
+R2
+R3
+R48
+R49
+R50
+!i122 1884
+Z55 L0 26 18
+R7
+r1
+!s85 0
+31
+R52
+R53
+R54
+!i113 1
+R11
+R12
+ndecoder_3_to_8_@tb
+vDiv_8bits
+R0
+!i10b 1
+!s100 ?z0n85JY_=;=B?69JTg<80
+R1
+Id?_gaoF;ZiW^N]bfDOk0N2
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 30 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@div_8bits
+vencoder_8_to_3
+R39
+!i10b 1
+!s100 OFmK4VTM5jJDhJYDTE82Q2
+R1
+IFjYaK`Kh^YiGBYoHnMRk60
+R2
+R3
+Z56 w1669550980
+Z57 8C:/VLSI LYJ/encoder_8to3.v
+Z58 FC:/VLSI LYJ/encoder_8to3.v
+!i122 1881
+R51
+R7
+r1
+!s85 0
+31
+R8
+Z59 !s107 C:/VLSI LYJ/encoder_8to3.v|
+Z60 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/encoder_8to3.v|
+!i113 1
+R11
+R12
+vencoder_8_to_3_Tb
+R39
+!i10b 1
+!s100 oMi@IBUYF]cbM=T1g_;i61
+R1
+I0Fe9iGCOIYZVVX<Lf@cjI2
+R2
+R3
+R56
+R57
+R58
+!i122 1881
+R55
+R7
+r1
+!s85 0
+31
+R8
+R59
+R60
+!i113 1
+R11
+R12
+nencoder_8_to_3_@tb
+vFulAdder
+Z61 !s110 1671505723
+!i10b 1
+!s100 CG3C^PJXCDPBHM00hiU8;2
+R1
+IEhUkhQeZ8P_?j_]=nE>T_3
+R2
+R3
+Z62 w1671485461
+Z63 8C:/VLSI LYJ/test1220.v
+Z64 FC:/VLSI LYJ/test1220.v
+!i122 1885
+L0 2 7
+R7
+r1
+!s85 0
+31
+R52
+Z65 !s107 C:/VLSI LYJ/test1220.v|
+Z66 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/test1220.v|
+!i113 1
+R11
+R12
+n@ful@adder
+vFullAdder_Tb
+R61
+!i10b 1
+!s100 mgVnK:bj`_69N7IEBl:@91
+R1
+ImdA=JaGb?2EhkTPL<k7YT1
+R2
+R3
+R62
+R63
+R64
+!i122 1885
+L0 10 19
+R7
+r1
+!s85 0
+31
+R52
+R65
+R66
+!i113 1
+R11
+R12
+n@full@adder_@tb
+vMul_8bits
+R0
+!i10b 1
+!s100 88:EC@ozQY]=@If1Mk<T73
+R1
+IiJO<>GFMZU1>YGQ8VU?nV3
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 21 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@mul_8bits
+vMux_2to1_8bits_case
+Z67 !s110 1671505717
+!i10b 1
+!s100 OJ9V80MbPa7bBTWMAZQQ`0
+R1
+InneYAFggg@EPG_OQn2omY2
+R2
+R3
+Z68 w1667284137
+R28
+R29
+!i122 1877
+R30
+R7
+r1
+!s85 0
+31
+Z69 !s108 1671505716.000000
+R31
+R32
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_case
+vMux_2to1_8bits_CASE
+Z70 !s110 1671505718
+!i10b 1
+!s100 `lDBi;U[^Z3G>g75[Kfe51
+R1
+I2:be8[^ZF@JJoU3U`O7F30
+R2
+R3
+Z71 w1671182528
+Z72 8C:/VLSI LYJ/Mux_2to1_8bits.v
+Z73 FC:/VLSI LYJ/Mux_2to1_8bits.v
+!i122 1879
+L0 16 15
+R7
+r1
+!s85 0
+31
+Z74 !s108 1671505717.000000
+Z75 !s107 C:/VLSI LYJ/Mux_2to1_8bits.v|
+Z76 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Mux_2to1_8bits.v|
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_@c@a@s@e
+vMux_2to1_8bits_case_Tb
+R67
+!i10b 1
+!s100 nAVmMF1O:dWg6Wdbh;cWD2
+R1
+I4zTff0eSBHD1Bg5h^zDWl0
+R2
+R3
+R68
+R28
+R29
+!i122 1877
+L0 19 22
+R7
+r1
+!s85 0
+31
+R69
+R31
+R32
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_case_@tb
+vMux_2to1_8bits_cond
+R67
+!i10b 1
+!s100 RT1<:A]Fifn>TKfG=:DJ22
+R1
+Ib69<_EE=1LX5LYN>nBgAc1
+R2
+R3
+Z77 w1667284514
+Z78 8C:/VLSI LYJ/Mux_2to1_8bits_cond.v
+Z79 FC:/VLSI LYJ/Mux_2to1_8bits_cond.v
+!i122 1878
+R17
+R7
+r1
+!s85 0
+31
+R74
+Z80 !s107 C:/VLSI LYJ/Mux_2to1_8bits_cond.v|
+Z81 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Mux_2to1_8bits_cond.v|
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_cond
+vMux_2to1_8bits_COND
+R70
+!i10b 1
+!s100 3j[V[2C77f5^l4;O:2Bc_2
+R1
+IiM`2F3CO0cLiDFM?Ni;H?2
+R2
+R3
+R71
+R72
+R73
+!i122 1879
+L0 32 9
+R7
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_@c@o@n@d
+vMux_2to1_8bits_cond_Tb
+R67
+!i10b 1
+!s100 2BDNdW0E6:kM8`L0=Ln_g3
+R1
+IB?K>K><NDN=@zc166F6Nb3
+R2
+R3
+R77
+R78
+R79
+!i122 1878
+L0 14 22
+R7
+r1
+!s85 0
+31
+R74
+R80
+R81
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_cond_@tb
+vMux_2to1_8bits_if
+Z82 !s110 1671505716
+!i10b 1
+!s100 BaGBQRI@Vl9Sk5PcJ[dl>1
+R1
+Im9EVlAkLSQBg;J[jEUB?50
+R2
+R3
+R77
+Z83 8C:/VLSI LYJ/Mux-2to1_8bits_if.v
+Z84 FC:/VLSI LYJ/Mux-2to1_8bits_if.v
+!i122 1876
+R43
+R7
+r1
+!s85 0
+31
+Z85 !s108 1671505715.000000
+Z86 !s107 C:/VLSI LYJ/Mux-2to1_8bits_if.v|
+Z87 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Mux-2to1_8bits_if.v|
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_if
+vMux_2to1_8bits_IF
+R70
+!i10b 1
+!s100 Y8NMn@[]CO0Yjja@C:k]o1
+R1
+I5IbR8Hz^jhQj6[j`6d?c42
+R2
+R3
+R71
+R72
+R73
+!i122 1879
+R43
+R7
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_@i@f
+vMux_2to1_8bits_if_Tb
+R82
+!i10b 1
+!s100 EJ8`4:bMnXhdjI?g6KJEP3
+R1
+Ilohb2H<`;]DGj:K1X:Val3
+R2
+R3
+R77
+R83
+R84
+!i122 1876
+L0 16 22
+R7
+r1
+!s85 0
+31
+R85
+R86
+R87
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_if_@tb
+vMux_2to1_8bits_Tb
+R70
+!i10b 1
+!s100 243G2FLMBgocD7_^I[gJ42
+R1
+IRz_MYA]?N]=c@mD_e]^TT0
+R2
+R3
+R71
+R72
+R73
+!i122 1879
+L0 42 17
+R7
+r1
+!s85 0
+31
+R74
+R75
+R76
+!i113 1
+R11
+R12
+n@mux_2to1_8bits_@tb
+vMux_4to1_8bits
+R0
+!i10b 1
+!s100 eMgSI9^`00>RFHXTe[R<b2
+R1
+IO^@G6]@0ZC7;b:3gKjPFJ3
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 39 20
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@mux_4to1_8bits
+vmux_8to1
+R61
+!i10b 1
+!s100 NnkVGa2j`<6RIm@K;H4MP0
+R1
+I9SUT2DN6?Qhc`KQFkd8D[0
+R2
+R3
+w1671489933
+8C:/VLSI LYJ/Mux_8to_1.v
+FC:/VLSI LYJ/Mux_8to_1.v
+!i122 1886
+L0 1 7
+R7
+r1
+!s85 0
+31
+!s108 1671505723.000000
+!s107 C:/VLSI LYJ/Mux_8to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Mux_8to_1.v|
+!i113 1
+R11
+R12
+vRegister_8bits
+R47
+!i10b 1
+!s100 UNcJ=9Z?<aDj8nccnfDCU1
+R1
+IC>WR@?]<hYg[A6nUz;WNX2
+R2
+R3
+Z88 w1671505710
+Z89 8C:/VLSI LYJ/Register_8bits.v
+Z90 FC:/VLSI LYJ/Register_8bits.v
+!i122 1883
+L0 3 14
+R7
+r1
+!s85 0
+31
+R44
+Z91 !s107 C:/VLSI LYJ/Register_8bits.v|
+Z92 !s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/Register_8bits.v|
+!i113 1
+R11
+R12
+n@register_8bits
+vRegister_8bits_Tb
+R47
+!i10b 1
+!s100 F=W^Uije]QZ]gnzK4fm952
+R1
+ImC[H:WRNYJ?4DaCcYffAT0
+R2
+R3
+R88
+R89
+R90
+!i122 1883
+L0 18 39
+R7
+r1
+!s85 0
+31
+R44
+R91
+R92
+!i113 1
+R11
+R12
+n@register_8bits_@tb
+vSub_8bits
+R0
+!i10b 1
+!s100 Fnzf1A7^E7VN[QWF7gUe82
+R1
+I2=f[jV0S89<GoOGNzl9UP1
+R2
+R3
+R4
+R5
+R6
+!i122 1880
+L0 12 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@sub_8bits
+vTestTb
+Z93 !s110 1671505715
+!i10b 1
+!s100 m9meiVKmo7?Q?>;0I?>;P1
+R1
+IV]6nL5j>=YgfY>2ga6UY83
+R2
+R3
+w1666680425
+8C:/VLSI LYJ/test.v
+FC:/VLSI LYJ/test.v
+!i122 1875
+R25
+R7
+r1
+!s85 0
+31
+R85
+!s107 C:/VLSI LYJ/test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/test.v|
+!i113 1
+R11
+R12
+n@test@tb
+vTimeScaleTestTb
+R93
+!i10b 1
+!s100 >^T]`Pj]ai2e[=`ACQjC41
+R1
+I:aELPCfTBl[_XeTQXUXA40
+R2
+R3
+w1671114290
+8C:/VLSI LYJ/stopwatch.v
+FC:/VLSI LYJ/stopwatch.v
+!i122 1874
+R25
+R7
+r1
+!s85 0
+31
+R36
+!s107 C:/VLSI LYJ/stopwatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI LYJ/stopwatch.v|
+!i113 1
+R11
+R12
+n@time@scale@test@tb

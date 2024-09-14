@@ -1,0 +1,42 @@
+`timescale 1ns/1ps
+
+module encoder_8_to_3(
+D, B); 
+
+input wire [7:0] D;
+output reg [2:0] B;
+
+always @(*)
+begin
+   case(D)
+   8'b00000001: B = 3'b000; //0 
+   8'b00000010: B = 3'b001; //1
+   8'b00000100: B = 3'b010; //2
+   8'b00001000: B = 3'b011; //3 
+   8'b00010000: B = 3'b100; //4
+   8'b00100000: B = 3'b101; //5
+   8'b01000000: B = 3'b110; //6
+   8'b10000000: B = 3'b111; //7 
+   default : B = 3'b000; //0
+   endcase
+end
+
+endmodule
+
+module encoder_8_to_3_Tb;
+reg [7:0] D;
+wire [2:0] B;
+
+initial begin
+   #0 D = 8'd1;
+   #10 D = 8'd2;
+   #10 D = 8'd8;
+   #10 D = 8'd16;
+   #10 D = 8'd32;
+   #10 D = 8'd64;
+   #10 D = 8'd128;
+
+end
+
+encoder_8_to_3 U0(.D(D), .B(B));
+endmodule

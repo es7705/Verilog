@@ -1,0 +1,138 @@
+{C:/VLSI LYJ/Mux_8to_1.v} {0 {vlog -work work -stats=none {C:/VLSI LYJ/Mux_8to_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_8to1
+-- Compiling module mux_8to1_Tb
+** Error: (vlog-13069) C:/VLSI LYJ/Mux_8to_1.v(11): near "wire": syntax error, unexpected wire, expecting ';' or ','.
+** Error: C:/VLSI LYJ/Mux_8to_1.v(15): (vlog-2730) Undefined variable: 'S'.
+** Error: (vlog-13069) C:/VLSI LYJ/Mux_8to_1.v(20): near "EOF": syntax error, unexpected end of source code.
+
+} {5.0 8.0} {}} {C:/VLSI LYJ/Adder_4b.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Adder_4b.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Add_8bits
+-- Compiling module Sub_8bits
+-- Compiling module Mul_8bits
+-- Compiling module Div_8bits
+-- Compiling module Mux_4to1_8bits
+-- Compiling module Alu_8bits
+-- Compiling module Alu_8bits_Tb
+
+Top level modules:
+	Alu_8bits_Tb
+
+} {} {}} {C:/VLSI LYJ/stopwatch.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/stopwatch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TimeScaleTestTb
+
+Top level modules:
+	TimeScaleTestTb
+
+} {} {}} {C:/VLSI LYJ/Register_8bits.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Register_8bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register_8bits
+-- Compiling module Register_8bits_Tb
+
+Top level modules:
+	Register_8bits_Tb
+
+} {} {}} {C:/VLSI LYJ/Mux_2to1_8bits.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Mux_2to1_8bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2to1_8bits_IF
+-- Compiling module Mux_2to1_8bits_CASE
+-- Compiling module Mux_2to1_8bits_COND
+-- Compiling module Mux_2to1_8bits_Tb
+
+Top level modules:
+	Mux_2to1_8bits_Tb
+
+} {} {}} {C:/VLSI LYJ/Flip-Flop.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Flip-Flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module D_FF
+-- Compiling module D_FF_Tb
+
+Top level modules:
+	D_FF_Tb
+
+} {} {}} {C:/VLSI LYJ/Mux-2to1_8bits_if.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Mux-2to1_8bits_if.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2to1_8bits_if
+-- Compiling module Mux_2to1_8bits_if_Tb
+
+Top level modules:
+	Mux_2to1_8bits_if_Tb
+
+} {} {}} {C:/VLSI LYJ/test1220.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/test1220.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FulAdder
+-- Compiling module FullAdder_Tb
+
+Top level modules:
+	FulAdder
+	FullAdder_Tb
+
+} {} {}} {C:/VLSI LYJ/encoder_8to3.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/encoder_8to3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module encoder_8_to_3
+-- Compiling module encoder_8_to_3_Tb
+
+Top level modules:
+	encoder_8_to_3_Tb
+
+} {} {}} {C:/VLSI LYJ/test.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestTb
+
+Top level modules:
+	TestTb
+
+} {} {}} {C:/VLSI LYJ/Adder.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder_16bits
+-- Compiling module Adder_16bits_Tb
+
+Top level modules:
+	Adder_16bits_Tb
+
+} {} {}} {C:/VLSI LYJ/Adder_8bits.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/Adder_8bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder_8bits
+-- Compiling module Adder_8bits_Tb
+
+Top level modules:
+	Adder_8bits_Tb
+
+} {} {}} {C:/VLSI LYJ/8bits_Comparator.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/8bits_Comparator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Comparator_8bits
+-- Compiling module Comparator_8bits_Tb
+
+Top level modules:
+	Comparator_8bits_Tb
+
+} {} {}} {C:/VLSI LYJ/Mux_2to1_8bits_case.v} {2 {vlog -work work -stats=none {C:/VLSI LYJ/Mux_2to1_8bits_case.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2to1_8bits_case
+** Warning: C:/VLSI LYJ/Mux_2to1_8bits_case.v(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/VLSI LYJ/Mux_2to1_8bits_case.v(14): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module Mux_2to1_8bits_case_Tb
+
+Top level modules:
+	Mux_2to1_8bits_case_Tb
+
+} {} {}} {C:/VLSI LYJ/Mux_2to1_8bits_cond.v} {2 {vlog -work work -stats=none {C:/VLSI LYJ/Mux_2to1_8bits_cond.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2to1_8bits_cond
+** Warning: C:/VLSI LYJ/Mux_2to1_8bits_cond.v(11): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module Mux_2to1_8bits_cond_Tb
+
+Top level modules:
+	Mux_2to1_8bits_cond_Tb
+
+} {} {}} {C:/VLSI LYJ/decoder_3to8.v} {1 {vlog -work work -stats=none {C:/VLSI LYJ/decoder_3to8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder_3_to_8
+-- Compiling module decoder_3_to_8_Tb
+
+Top level modules:
+	decoder_3_to_8_Tb
+
+} {} {}}

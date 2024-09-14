@@ -1,0 +1,37 @@
+`timescale 1ns/1ps
+
+module Comparator_8bits(
+IN1,
+IN2,
+OUT);
+
+input wire [7:0] IN1;
+input wire [7:0] IN2;
+output reg [1:0] OUT;
+
+always @(*) begin
+   if(IN1 > IN2)	OUT <= 2'd1;
+   else if(IN1 == IN2)	OUT <= 2'd0;
+   else 		OUT <= 2'd2;
+end
+
+endmodule
+
+module Comparator_8bits_Tb;
+   reg [7:0] IN1, IN2;
+   wire[1:0] OUT;
+
+initial begin
+   #0 IN1 = 8'd0;
+   #10 IN1 = 8'd10;
+   #10 IN1 = 8'd20;
+end
+
+initial begin
+   #0 IN2 = 8'd0;
+   #10 IN2 = 8'd20;
+   #10 IN2 = 8'd10;
+end
+
+Comparator_8bits I0(.IN1(IN1), .IN2(IN2), .OUT(OUT));
+endmodule

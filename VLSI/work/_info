@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vTimeScaleTestTb
+!s110 1663955926
+!i10b 1
+!s100 o:J9ZE3QYBU7lY:mmGjdE0
+IRm`:cgg9?45K8Q8J3Y95d1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/VLSI
+w1663955924
+8C:/VLSI/stopwatch.v
+FC:/VLSI/stopwatch.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1663955926.000000
+!s107 C:/VLSI/stopwatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/VLSI/stopwatch.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@time@scale@test@tb
